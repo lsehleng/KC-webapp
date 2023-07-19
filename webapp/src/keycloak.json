@@ -1,0 +1,10 @@
+{
+  "realm": "test_cli",
+  "auth-server-url": "https://13.212.72.143/",
+  "ssl-required": "external",
+  "resource": "webapp",
+  "public-client": true,
+  "verify-token-audience": true,
+  "use-resource-role-mappings": true,
+  "confidential-port": 0
+}

@@ -1,0 +1,9 @@
+import Keycloak from "keycloak-js";
+
+const keycloak = new Keycloak({;
+ url: "https://13.212.72.143:443",
+ realm: "test_cli",
+ clientId: "webapp",
+}];
+
+export default keycloak;
